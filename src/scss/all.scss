@@ -1,0 +1,32 @@
+// src/scss/styles.scss
+@import "bootstrap/scss/functions";
+@import "./utils/_variables";
+@import "./utils/_custom-color";
+@import "./utils/_mixins";
+@import "./base/_fonts";
+@import "bootstrap/scss/variables";
+@import "bootstrap/scss/variables-dark";
+@import "bootstrap/scss/maps";
+@import "bootstrap/scss/mixins";
+
+@import "./utils/utilities";
+@import "bootstrap/scss/utilities";
+@import "bootstrap/scss/helpers";
+@import "bootstrap/scss/utilities/api";
+@import "./utils/mixins";
+
+@import "./base/_base";
+@import "./base/_border";
+@import "./base/_link-color";
+@import "./components/_buttons";
+@import "./components/_banner-swiper";
+@import "./components/_singleAttraction";
+@import "./components/_heart";
+@import "./components/_tag";
+@import "./components/_card";
+@import "./components/_tab";
+@import "./components/_mask";
+@import "./components/_loader.scss";
+@import "./components/like-swiper";
+@import "bootstrap/scss/bootstrap.scss";
+
