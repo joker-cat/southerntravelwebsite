@@ -6,7 +6,7 @@ import inject from "@rollup/plugin-inject";
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/2024-southerntravelwebsite-fin/',
+  base: '/southerntravelwebsite/',
   plugins: [
     vue(),
   ],
